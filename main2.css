@@ -1,0 +1,114 @@
+header {
+	overflow: hidden;
+	background: #65bec2;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	padding: 18px 0px;
+	text-align: center;
+	box-shadow: 0px 0px 3px;
+}
+
+header a{
+	font-family:'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;	
+	padding: 0px 100px;
+}
+
+body{
+	margin: 0;
+	background: #eff4fb;
+}
+
+footer{
+	background: #65bec2;
+	text-align: center;
+	padding: 80px 0px;
+	font-family:'Montserrat', sans-serif;
+	font-size: 15px;
+	color: white;
+}
+
+.main{
+	background: #eff4fb;
+	font-family:'Lora', serif;
+	font-size: 30px;
+	font-weight: 300;
+	margin:0px 500px 0px 450px;
+	padding-top: 65px;
+	color: #404040;
+}
+
+.main img {
+	width:430px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.sfeerfoto img {
+	width: 100%;
+	margin-top: 50px;
+}
+
+.push-ups {
+	width: 450px;
+	float: left;
+}
+
+.pull-ups {
+	width: 450px;
+	float:right;
+}
+
+.chin-ups {
+	width: 450px;
+	float: left;
+}
+
+
+.dips {
+	width: 450px;
+	float:right;
+}
+
+.squads {
+	width: 450px;
+	float: left;
+}
+
+.crunches {
+	width: 450px;
+	float:right;
+}
+
+.muscle-up {
+	width: 450px;
+	float: left;
+}
+
+.handstand {
+	width: 450px;
+	float:right;
+}
+
+.human-flag {
+	width: 450px;
+	float: left;
+}
+
+.back-lever {
+	width: 450px;
+	float:right;
+}
+
+.planche {
+	width: 450px;
+	float: left;
+}
+
+.afsluiting {
+	float: left;
+}
