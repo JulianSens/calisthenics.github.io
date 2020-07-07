@@ -30,6 +30,19 @@ footer{
 	font-family:'Montserrat', sans-serif;
 	font-size: 15px;
 	color: white;
+
+}
+
+.footer{
+	background: #65bec2;
+	text-align: center;
+	padding: 80px 0px;
+	font-family:'Montserrat', sans-serif;
+	font-size: 15px;
+	color: white;
+	width:3000px;
+	float:left;
+	margin-left:-1000px;
 }
 
 .main{
@@ -58,58 +71,58 @@ footer{
 }
 
 .push-ups {
-	width: 450px;
+	width: 440px;
 	float: left;
 }
 
 .pull-ups {
-	width: 450px;
+	width: 440px;
 	float:right;
 }
 
 .chin-ups {
-	width: 450px;
+	width: 440px;
 	float: left;
 }
 
 
 .dips {
-	width: 450px;
+	width: 440px;
 	float:right;
 }
 
 .squads {
-	width: 450px;
+	width: 440px;
 	float: left;
 }
 
 .crunches {
-	width: 450px;
+	width: 440px;
 	float:right;
 }
 
 .muscle-up {
-	width: 450px;
+	width: 440px;
 	float: left;
 }
 
 .handstand {
-	width: 450px;
+	width: 440px;
 	float:right;
 }
 
 .human-flag {
-	width: 450px;
+	width: 440px;
 	float: left;
 }
 
 .back-lever {
-	width: 450px;
+	width: 440px;
 	float:right;
 }
 
 .planche {
-	width: 450px;
+	width: 440px;
 	float: left;
 }
 
